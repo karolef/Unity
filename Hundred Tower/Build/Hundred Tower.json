@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Text101",
+"dataUrl": "Hundred Tower.data.unityweb",
+"asmCodeUrl": "Hundred Tower.asm.code.unityweb",
+"asmMemoryUrl": "Hundred Tower.asm.memory.unityweb",
+"asmFrameworkUrl": "Hundred Tower.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
