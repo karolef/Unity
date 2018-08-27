@@ -10,4 +10,4 @@ If you have any questions, please let me know: fatyga.karol@gmail.com
 3. RPG - scripts for my simple/unfinished RPG
 4. [Prototype of a beat mechanic](https://karolef.github.io/Unity/ProtoBeatMechanic/) - to display how hard it is to tap a key in a 5 frame window
 5. Brick Breaker prototype - simple mechanics of the classic game brick breaker replicated
-6. [TileVania](https://karolef.github.io/Unity/TileVania/) - simple platformer with only 2 levels with not a lot of polish
+6. [TileVania](https://karolef.github.io/Unity/TileVania/) - simple platformer with only 2 levels with not a lot of polish; WebGL build
