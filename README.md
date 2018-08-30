@@ -11,4 +11,4 @@ If you have any questions, please let me know: fatyga.karol@gmail.com
 4. [Prototype of a beat mechanic](https://karolef.github.io/Unity/ProtoBeatMechanic/) - to display how hard it is to tap a key in a 5 frame window
 5. Brick Breaker prototype - simple mechanics of the classic game brick breaker replicated
 6. [TileVania](https://karolef.github.io/Unity/TileVania/) - simple platformer with only 2 levels with not a lot of polish; WebGL build
-7. Westival Prototype v 0.1 - simple player & camera movement, beat system - doesn't work too well as a WebGL build
+7. Westival Prototype v 0.1 - simple player & camera movement, beat system - doesn't work too well as a WebGL build, lesson learned
